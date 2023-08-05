@@ -210,15 +210,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 
-- [ ] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- [x] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
-- [ ] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- [x] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
-- [ ] [Exclusive Execution Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
+- [x] [Exclusive Execution Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
 
 - [ ] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Tree Depth First Search
 
